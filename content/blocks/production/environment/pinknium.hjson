@@ -1,0 +1,23 @@
+{
+      "type": "OreBlock",
+        "name": "pinknium",
+          "localizedName": "Pinknium",
+            "description": "An ore that creates Pink items when mined.",
+              "hardness": 3,
+                "resistance": 4,
+                  "mineTier": 4,
+                    "itemDrop": "pinknium-item",
+                      "emitLight": false,
+                        "emitFlammability": true,
+                          "flammableMultiplier": 0.5,
+                            "explosiveness": 0.5,
+                              "oreDefault": true,
+                                "variants": 3,
+                                  "oreThreshold": 1,
+                                    "oreScale": 0.02,
+                                      "liquidDrop": "mrcarterspussyjuice",
+                                        "liquidDropAmount": 5,
+                                          "hasShadow": true,
+
+}
+}

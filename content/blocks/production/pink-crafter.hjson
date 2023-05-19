@@ -1,0 +1,26 @@
+type: genericCrafter
+localizedName: Pink Craft
+description:A custom crafter that uses Pink items and My Other Pink Item to create My Third Custom Item.
+craftTime: 60
+size: 2
+hasPower: false
+hasItems:true
+hasLiquids: false
+itemCapacity:10
+consumes: {
+      items: {
+            items: [
+                      a-pink-item/1
+                      	  a-other-pink-item/1
+            ]
+      }
+}
+category: crafting
+requirements: [
+
+]
+outputItem: my-third-pink-item/1
+]
+            ]
+      }
+}

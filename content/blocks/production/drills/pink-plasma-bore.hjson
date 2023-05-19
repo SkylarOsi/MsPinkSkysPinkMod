@@ -1,0 +1,27 @@
+type: BeamDrill
+localizedName: Pink Plasma Bore
+health: 255
+tier: 5
+size: 2
+range: 9
+fogRadius: 2
+drillTime: 110
+consumes: {
+      power: 0.35
+        liquid: {
+                  liquid: water
+                        amount: 0.0116666666666667
+        }
+}
+requirements: [
+      beryllium/40
+        thorium/20
+          silicon/30
+            oxide/25
+]
+liquidBoostIntensity: 2.7
+category: production
+research: large-plasma-bore
+]
+        }
+}
